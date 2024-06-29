@@ -40,6 +40,7 @@ iris = "xradar.io.backends:IrisBackendEntrypoint"
 odim = "xradar.io.backends:OdimBackendEntrypoint"
 rainbow = "xradar.io.backends:RainbowBackendEntrypoint"
 nexradlevel2 = "xradar.io.backends:NexradLevel2BackendEntrypoint"
+hpl = "xradar.io.backends:HPLBackendEntrypoint"
 
 
 [build-system]
